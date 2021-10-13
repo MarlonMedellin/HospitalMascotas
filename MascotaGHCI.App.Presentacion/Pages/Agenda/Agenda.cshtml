@@ -1,0 +1,38 @@
+﻿@page
+@model Veterinaria.App.Presentacion.Pages.AgendaModel
+@{
+}
+<p>Agenda</p>
+<form class="needs-validation" novalidate>
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom02">Tipo Atención</label>
+            <select class="custom-select" id="inputGroupSelect01">
+                <option selected>Elegir...</option>
+                <option value="1">Urgencia</option>
+                <option value="2">Control</option>
+                <option value="3">Vacunas</option>
+            </select>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom02">Documento Persona Responsable</label>
+            <input type="text" class="form-control" id="validationCustom02" placeholder="Last name"
+                value="Ej: 1234567890 o AO123456" required>
+            <div class="valid-feedback">
+                Documento Válido!
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationCustom02">Tipo mascota</label>
+            <select class="custom-select" id="inputGroupSelect01">
+                <option selected>Elegir...</option>
+                <option value="1">Mamífero</option>
+                <option value="2">Ave</option>
+                <option value="3">Pez</option>
+            </select>
+        </div>
+    </div>
+
+
+    <button class="btn btn-primary" type="submit">Crear Registro</button>
+</form>

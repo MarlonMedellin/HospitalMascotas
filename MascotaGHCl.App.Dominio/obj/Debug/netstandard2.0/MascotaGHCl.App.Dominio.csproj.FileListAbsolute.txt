@@ -1,0 +1,9 @@
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Dominio\bin\Debug\netstandard2.0\MascotaGHCl.App.Dominio.deps.json
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Dominio\bin\Debug\netstandard2.0\MascotaGHCl.App.Dominio.dll
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Dominio\bin\Debug\netstandard2.0\MascotaGHCl.App.Dominio.pdb
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Dominio\obj\Debug\netstandard2.0\MascotaGHCl.App.Dominio.csprojAssemblyReference.cache
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Dominio\obj\Debug\netstandard2.0\MascotaGHCl.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Dominio\obj\Debug\netstandard2.0\MascotaGHCl.App.Dominio.AssemblyInfo.cs
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Dominio\obj\Debug\netstandard2.0\MascotaGHCl.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Dominio\obj\Debug\netstandard2.0\MascotaGHCl.App.Dominio.dll
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Dominio\obj\Debug\netstandard2.0\MascotaGHCl.App.Dominio.pdb

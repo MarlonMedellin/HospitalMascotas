@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fe0jqqDcFctu0Wj35PQ7UqbHE47JmqQ+X8V6iIm/E22+Hq3B6cLHIlQzg2PCZBys/4gkamjUOqJLOk9OmAbBwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TUF\\Documents\\HospitalMascotas\\HospitalMascotas\\MascotaGHCl.App.Dominio\\MascotaGHCl.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TUF\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TUF\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

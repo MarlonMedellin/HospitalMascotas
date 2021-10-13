@@ -1,0 +1,12 @@
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\bin\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.deps.json
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\bin\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.dll
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\bin\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.pdb
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\bin\Debug\netstandard2.1\MascotaGHCl.App.Dominio.dll
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\bin\Debug\netstandard2.1\MascotaGHCl.App.Dominio.pdb
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\obj\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\obj\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\obj\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.AssemblyInfo.cs
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\obj\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\obj\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.csproj.CopyComplete
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\obj\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.dll
+C:\Users\TUF\Documents\HospitalMascotas\HospitalMascotas\MascotaGHCl.App.Persistencia\obj\Debug\netstandard2.1\MascotaGHCl.App.Persistencia.pdb

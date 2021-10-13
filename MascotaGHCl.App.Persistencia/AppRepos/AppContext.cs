@@ -45,7 +45,9 @@ namespace MascotaGHCl.App.Persistencia {
         public DbSet<HistClinica> TBLHistClinica {
             get { return var_TBLHistClinica; }
             set { var_TBLHistClinica = value; }
-        }        
+        }
+
+        /*
         // Conexion con la BD segun OS
         private static string ConnectionStringLinux = "Server=localhost; Database=MascotaGHClBD; User=SA; Password=SuClave;";
         // Conexion en Windows
@@ -55,6 +57,15 @@ namespace MascotaGHCl.App.Persistencia {
             if( !OptionsBuilder.IsConfigured ) {
                 OptionsBuilder.UseSqlServer(ConnectionStringOS).EnableSensitiveDataLogging();
             }
+        }
+        */
+
+                protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
+            
+            if(!optionsBuilder.IsConfigured) {
+                optionsBuilder.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog =VeterinariaGrupo26");
+            }
+
         }
     }
 }

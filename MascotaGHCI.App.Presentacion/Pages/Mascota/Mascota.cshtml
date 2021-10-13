@@ -1,0 +1,58 @@
+﻿@page
+@model Veterinaria.App.Presentacion.Pages.MascotaModel
+@{
+}
+<form class="needs-validation" novalidate>
+  <div class="form-row">
+    <div class="col-md-4 mb-3">
+      <label for="validationCustom01">Nombre Mascota</label>
+      <input type="text" class="form-control" id="validationCustom01" placeholder="First name" value="Marlon" required>
+      <div class="valid-feedback">
+        Nombre Válido!
+      </div>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationCustom02">Tipo mascota</label>
+      <select class="custom-select" id="inputGroupSelect01">
+        <option selected>Elegir...</option>
+        <option value="1">Mamífero</option>
+        <option value="2">Ave</option>
+        <option value="3">Pez</option>
+      </select>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationCustom02">Documento Persona Responsable</label>
+      <input type="text" class="form-control" id="validationCustom02" placeholder="Last name"
+        value="Ej: 1234567890 o AO123456" required>
+      <div class="valid-feedback">
+        Documento Válido!
+      </div>
+    </div>
+
+  </div>
+
+  <div class="form-group">
+
+    <button class="btn btn-primary" type="submit">Crear Mascota</button>
+</form>
+
+<script>
+  // Example starter JavaScript for disabling form submissions if there are invalid fields
+  (function () {
+    'use strict';
+    window.addEventListener('load', function () {
+      // Fetch all the forms we want to apply custom Bootstrap validation styles to
+      var forms = document.getElementsByClassName('needs-validation');
+      // Loop over them and prevent submission
+      var validation = Array.prototype.filter.call(forms, function (form) {
+        form.addEventListener('submit', function (event) {
+          if (form.checkValidity() === false) {
+            event.preventDefault();
+            event.stopPropagation();
+          }
+          form.classList.add('was-validated');
+        }, false);
+      });
+    }, false);
+  })();
+</script>

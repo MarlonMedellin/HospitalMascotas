@@ -1,0 +1,69 @@
+﻿@page
+@model Veterinaria.App.Presentacion.Pages.PersonaModel
+@{
+}
+<form class="needs-validation" novalidate>
+  <div class="form-row">
+    <div class="col-md-4 mb-3">
+      <label for="validationCustom01">Nombre</label>
+      <input type="text" class="form-control" id="validationCustom01" placeholder="First name" value="Marlon" required>
+      <div class="valid-feedback">
+        Nombre Válido!
+      </div>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationCustom02">Apellido</label>
+      <input type="text" class="form-control" id="validationCustom02" placeholder="Last name" value="Arcila" required>
+      <div class="valid-feedback">
+        Apellido Válido!
+      </div>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationCustom02">Documento</label>
+      <input type="text" class="form-control" id="validationCustom02" placeholder="Last name" value="Ej: 1234567890 o AO123456" required>
+      <div class="valid-feedback">
+        Documento Válido!
+      </div>
+    </div>
+
+  </div>
+  <div class="form-row">
+    <div class="col-md-6 mb-3">
+      <label for="validationCustom03">Municipio</label>
+      <input type="text" class="form-control" id="validationCustom03" placeholder="Ej. Medellín" required>
+      <div class="invalid-feedback">
+        Ingrese un municipio válido.
+      </div>
+    </div>
+    <div class="col-md-3 mb-3">
+      <label for="validationCustom04">Departamento</label>
+      <input type="text" class="form-control" id="validationCustom04" placeholder="Ej. Departamento" required>
+      <div class="invalid-feedback">
+        Ingrese un Departamento válido.
+      </div>
+    </div>
+    <div class="col-md-3 mb-3">
+      <label for="validationCustom05">Dirección</label>
+      <input type="text" class="form-control" id="validationCustom05" placeholder="Dirección" required>
+      <div class="invalid-feedback">
+        Ingrese una Dirección válida.
+      </div>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+      <label class="form-check-label" for="invalidCheck">
+        Acepto que conozco la <a asp-area="" asp-page="/Privacy">Política de Privacidad</a>
+      </label>
+      <div class="invalid-feedback">
+        Debe aceptar la política antes de continuar.
+      </div>
+    </div>
+  </div>
+  <button class="btn btn-primary" type="submit">Enviar formulario</button>
+</form>
+
+
+
+
